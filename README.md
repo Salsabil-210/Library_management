@@ -55,4 +55,3 @@ After launching the application:
 2. Navigate through different modules using the menu
 3. Manage books, members, and circulation operations
 4. Generate reports as needed
-
